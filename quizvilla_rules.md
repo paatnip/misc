@@ -8,9 +8,7 @@ There Are Two Rounds.
 5. First 2 Buzzer Will Get To Answer In Order, After. If Both Got Incorrect Answer Will Be Revealed By The Q.M.
 6.  10-15 Seconds Per Question.
 7.  3 Participants With Highest Points in The First Round Will Advance To The Final Round.
-
-**FINAL ROUND**
-9.  Final Round Will Have 10 Questions(5Q-Federer, 5Q- Serena)
+8.  Final Round Will Have 10 Questions(5Q-Federer, 5Q- Serena)
 10.  Points From Round 1 Will Not Be Included In The Final Round
 11.  Each Question Will Have 4 Points
 12.  No Negative Points If You Give Incorrect Answer
