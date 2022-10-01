@@ -1,6 +1,5 @@
 There Are Two Rounds.
 
-**FIRST ROUND**
 1. First Round Will Having 20 Questions(10Q- Federer And 10Q- Serena)
 2. Your Name Is Your Buzzer. You Need To Call Out Your Name To Answer
 3. Each Question Will Have 3 Points
